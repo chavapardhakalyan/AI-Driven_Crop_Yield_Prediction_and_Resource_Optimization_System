@@ -1,1 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
 AI_Driven_Crop_Yield_Prediction_and_Resource_Optimization_System/Crop_Yield/model1.pkl filter=lfs diff=lfs merge=lfs -text
